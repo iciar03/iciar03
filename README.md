@@ -25,7 +25,7 @@
 [![3d Max](https://img.shields.io/badge/3D_Max-98E784?style=for-the-badge&logo=autodesk&logoColor=0696D7&labelColor=101010)]()
 <br>
 
-[![Uploading image.png…](https://i.pinimg.com/originals/c9/ae/90/c9ae9033ece6d38f5a164ddbd468a4f4.gif)](https://github.com/iciar03])
+[![Uploading image.png…](https://i.pinimg.com/originals/2c/04/ca/2c04ca278610395bae6178ec484bb556.gif)](https://github.com/iciar03])
 
 ## Juegos a los que juego 😎😎
 
@@ -49,8 +49,8 @@
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	<a href="https://www.ea.com/es/games/the-sims/the-sims-4/">
+  		<img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Sims4_Rebrand.png">
 	</a>
 	</td>
 	</td>
