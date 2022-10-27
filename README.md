@@ -1,15 +1,15 @@
 # Hey Soy Jia 🤙
+__
 [![Uploading image.png…](https://i.pinimg.com/564x/ff/0f/18/ff0f185437d2e08f5c228fc78086794f.jpg)](https://github.com/iciar03])
-### Estudiante en [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 [![Twitch Status](https://img.shields.io/twitch/status/jijiax?style=social)](https://twitch.com/jijiax)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jijiax03?style=social)](https://twitter.com/jijiax03)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&labelColor=E4405F)](https://instagram.com/jiaxjw)
 [![ArtStation Follow](https://img.shields.io/badge/ArtStation-FFFFFF?style=social&logo=artstation&labelColor=E4405F)](https://artstation.com/jiawang73)
+### Estudiante en [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 ## Programas que utilizo 👾👾👾:
-
-
+___
 [![AfterEffects](https://img.shields.io/badge/AfterEffects-8B21B4?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=C366E7)]()
 <br>
 [![PhotoShop](https://img.shields.io/badge/PhotoShop-2DB7CA?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=31A8FF)]()
@@ -27,8 +27,8 @@
 
 [![Uploading image.png…](https://i.pinimg.com/originals/2c/04/ca/2c04ca278610395bae6178ec484bb556.gif)](https://github.com/iciar03])
 
-## Juegos a los que juego 😎😎
-
+##  ❌❌Mis trabajos (_Algunos_)❌❌
+___
 <table style="width:100%">
   <tr>
   <td>
@@ -36,6 +36,8 @@
   		<img src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f">
 	</a>
 	</td>
+	
+
   <td>
 	<a href="https://playvalorant.com/">
   		<img src="https://fotos.perfil.com/2021/12/13/trim/1280/720/que-es-el-videojuego-valorant-1283155.jpg">
@@ -57,13 +59,12 @@
     </tr>
     <tr>
     <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
-	</a>
   </tr>
 </table>
+
+## 💗💗 Actualmente estoy interesada en... 💗💗
+
+[![Uploading image.png…](https://i.pinimg.com/originals/ec/b9/ba/ecb9ba7d6a4667692ffd9a4c007424b3.gif)](https://github.com/iciar03])  
+
+
+
