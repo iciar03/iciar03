@@ -1,5 +1,5 @@
 # Hey Soy Jia 🤙
-__
+
 [![Uploading image.png…](https://i.pinimg.com/564x/ff/0f/18/ff0f185437d2e08f5c228fc78086794f.jpg)](https://github.com/iciar03])
 
 [![Twitch Status](https://img.shields.io/twitch/status/jijiax?style=social)](https://twitch.com/jijiax)
@@ -27,32 +27,32 @@ ___
 
 [![Uploading image.png…](https://i.pinimg.com/originals/2c/04/ca/2c04ca278610395bae6178ec484bb556.gif)](https://github.com/iciar03])
 
-##  ❌❌Mis trabajos (_Algunos_)❌❌
+##  ❌❌ Mis trabajos (_Algunos_) ❌❌
 ___
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f">
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://raw.githubusercontent.com/iciar03/fotos/main/1B_IciarMartinez_Final_002.jpg?token=GHSAT0AAAAAAB2PNZVOMVN2SWWS77KTK6O6Y23C77Q">
 	</a>
 	</td>
 	
 
   <td>
-	<a href="https://playvalorant.com/">
-  		<img src="https://fotos.perfil.com/2021/12/13/trim/1280/720/que-es-el-videojuego-valorant-1283155.jpg">
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://raw.githubusercontent.com/iciar03/fotos/main/Concept.Catherine.png?token=GHSAT0AAAAAAB2PNZVOLXT2MSDPWIAEHFV6Y23DAMA">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
-	<a href="https://twitter.com/cultofthelamb?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/">
-  		<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CultOfTheLamb.jpg">
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://github.com/iciar03/fotos/blob/main/personaje2.2.png">
 	</a>
 	</td>
 	<td>
-	<a href="https://www.ea.com/es/games/the-sims/the-sims-4/">
-  		<img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Sims4_Rebrand.png">
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://github.com/iciar03/fotos/blob/main/dibujo.png">
 	</a>
 	</td>
 	</td>
@@ -66,5 +66,9 @@ ___
 
 [![Uploading image.png…](https://i.pinimg.com/originals/ec/b9/ba/ecb9ba7d6a4667692ffd9a4c007424b3.gif)](https://github.com/iciar03])  
 
+1. Animación
+2. Concept Art
+3. Ilustración
+4. VFX 
 
 
