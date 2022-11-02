@@ -20,9 +20,9 @@ ___
 <br>
 [![Zbrush](https://img.shields.io/badge/Zbrush-FFE384?style=for-the-badge&logo=Zerply&logoColor=white&labelColor=D0AE39)]()
 <br>
-[![Maya](https://img.shields.io/badge/Maya-C7E784?style=for-the-badge&logo=autodesk&logoColor=0696D7&labelColor=101010)]()
-<br>
 [![3d Max](https://img.shields.io/badge/3D_Max-98E784?style=for-the-badge&logo=autodesk&logoColor=0696D7&labelColor=101010)]()
+<br>
+[![Maya](https://img.shields.io/badge/Maya-C7E784?style=for-the-badge&logo=autodesk&logoColor=0696D7&labelColor=101010)]()
 <br>
 
 [![Uploading image.png…](https://i.pinimg.com/originals/2c/04/ca/2c04ca278610395bae6178ec484bb556.gif)](https://github.com/iciar03])
@@ -30,19 +30,7 @@ ___
 ##  ❌❌ Mis trabajos (_Algunos_) ❌❌
 ___
 <table style="width:100%">
-  <tr>
-  <td>
-	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://raw.githubusercontent.com/iciar03/fotos/main/1B_IciarMartinez_Final_002.jpg?token=GHSAT0AAAAAAB2PNZVOMVN2SWWS77KTK6O6Y23C77Q">
-	</a>
-	</td>
 	
-
-  <td>
-	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://raw.githubusercontent.com/iciar03/fotos/main/Concept.Catherine.png?token=GHSAT0AAAAAAB2PNZVOLXT2MSDPWIAEHFV6Y23DAMA">
-	</a>
-	</td>
   </tr>
   <tr>
   <td>
