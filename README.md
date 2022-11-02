@@ -29,34 +29,40 @@ ___
 
 ##  ❌❌ Mis trabajos (_Algunos_) ❌❌
 ___
+
 <table style="width:100%">
-	
+  <tr>
+  <td>
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://lh3.googleusercontent.com/XWAT7l1C-I6iqYG0BRm8r-WyrOYTFw7hA8HzewrpnsyPZ-21eF7x_0FDZ2lUjUCRf9Rq6YwdhVj59hs=w1903-h880">
+	</a>
+  </td>	
+  <td>
+	<a href="https://artstation.com/jiawang73/">
+  		<img src="https://lh6.googleusercontent.com/7JFMKy8zPsjw7EaKL_r_xCDr15fquFsbwJVznVU5ZH3xeoY2QMR7A6Yyippaavoe8O37T4Pb2L-H0sU=w1903-h880">
+	</a>
+</td>	
   </tr>
   <tr>
   <td>
 	<a href="https://artstation.com/jiawang73/">
   		<img src="https://github.com/iciar03/fotos/blob/main/personaje2.2.png">
 	</a>
-	</td>
-	<td>
+</td>
+<td>
 	<a href="https://artstation.com/jiawang73/">
   		<img src="https://github.com/iciar03/fotos/blob/main/dibujo.png">
 	</a>
-	</td>
-	</td>
-    </tr>
-    <tr>
-    <td>
-  </tr>
+</td>
+   </tr>
 </table>
 
 ## 💗💗 Actualmente estoy interesada en... 💗💗
-
-[![Uploading image.png…](https://i.pinimg.com/originals/ec/b9/ba/ecb9ba7d6a4667692ffd9a4c007424b3.gif)](https://github.com/iciar03])  
 
 1. Animación
 2. Concept Art
 3. Ilustración
 4. VFX 
 
+[![Uploading image.png…](https://i.pinimg.com/originals/ec/b9/ba/ecb9ba7d6a4667692ffd9a4c007424b3.gif)](https://github.com/iciar03])  
 
