@@ -34,12 +34,12 @@ ___
   <tr>
   <td>
 	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://lh3.googleusercontent.com/XWAT7l1C-I6iqYG0BRm8r-WyrOYTFw7hA8HzewrpnsyPZ-21eF7x_0FDZ2lUjUCRf9Rq6YwdhVj59hs=w1903-h880">
+  		<img src="ejemplohttps://lh3.googleusercontent.com/XWAT7l1C-I6iqYG0BRm8r-WyrOYTFw7hA8HzewrpnsyPZ-21eF7x_0FDZ2lUjUCRf9Rq6YwdhVj59hs=w1903-h880">
 	</a>
   </td>	
   <td>
 	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://lh6.googleusercontent.com/7JFMKy8zPsjw7EaKL_r_xCDr15fquFsbwJVznVU5ZH3xeoY2QMR7A6Yyippaavoe8O37T4Pb2L-H0sU=w1903-h880">
+  		<img src="">
 	</a>
 </td>	
   </tr>
