@@ -34,7 +34,7 @@ ___
   <tr>
   <td>
 	<a href="https://artstation.com/jiawang73/">
-  		<img src="ejemplohttps://lh3.googleusercontent.com/XWAT7l1C-I6iqYG0BRm8r-WyrOYTFw7hA8HzewrpnsyPZ-21eF7x_0FDZ2lUjUCRf9Rq6YwdhVj59hs=w1903-h880">
+  		<img src="https://lh3.googleusercontent.com/XWAT7l1C-I6iqYG0BRm8r-WyrOYTFw7hA8HzewrpnsyPZ-21eF7x_0FDZ2lUjUCRf9Rq6YwdhVj59hs=w1903-h880">
 	</a>
   </td>	
   <td>
@@ -46,12 +46,12 @@ ___
   <tr>
   <td>
 	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://github.com/iciar03/fotos/blob/main/personaje2.2.png">
+  		<img src="">
 	</a>
 </td>
 <td>
 	<a href="https://artstation.com/jiawang73/">
-  		<img src="https://github.com/iciar03/fotos/blob/main/dibujo.png">
+  		<img src=" ">
 	</a>
 </td>
    </tr>
